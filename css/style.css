@@ -31,3 +31,8 @@ footer p {
     text-align: right;
     color: gray;
 }
+
+video {
+    object-fit: contain;
+}
+
