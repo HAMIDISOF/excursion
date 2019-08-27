@@ -27,6 +27,18 @@ main p {
     color: grey;
 }
 
+#media {
+    display: block;
+    width: 100%;
+    height: 700px;
+}
+
+#guide {
+    display: block;
+    width: 100%;
+    height: 700px;
+}
+
 footer p {
     text-align: right;
     color: gray;
